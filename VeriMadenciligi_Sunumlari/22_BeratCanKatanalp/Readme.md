@@ -18,16 +18,26 @@ Video Github Adresi: https://github.com/bmdersleri/VeriMadenciligi/tree/main/Ver
 
 
 Video Zaman Çizelgesi
-00.00-00.20 Giriş
-00.20-00.35 Içindekiler
-00.35-00.57 Veri Madenciliği Için Model Başarım Parametreleri
-00.57-02.27 Mean Absolute Percentage Error
-02.27-03.55 Mean Squared Error
-03.55-05.13 Root Mean Squared Error
-05.13-06.35 Mean Absolute Error
-06.35-08.13 R-squared
-08.13-08.15 Kaynak
-08.15-08.39 Bitiş
+
+00:00 Giriş
+
+00:20 İçindekiler
+
+00:35 Veri Madenciliği Için Model Başarım Parametreleri
+
+00:57 Mean Absolute Percentage Error
+
+02:27 Mean Squared Error
+
+03:55 Root Mean Squared Error
+
+05:13 Mean Absolute Error
+
+06:35 R-squared
+
+08:13 Kaynak
+
+08:15 Bitiş
 
 
 
