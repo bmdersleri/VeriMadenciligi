@@ -6,9 +6,13 @@ Anahtar Kelimeler: #VeriMadenciligi, #ModelBasarimParametreleri, #VeriMadencilig
 #RSquared, #R^2
 
 Youtube Kanalımız: BMDerslerim
+
 Youtube Kanal Adresi: https://www.youtube.com/channel/UCKdQ3Vg6lf_dWGsQGAQU7zA/featured
+
 Video Youtube Adresi: https://youtu.be/Ex4uAX8XYTw
+
 Github Adresimiz: https://github.com/bmdersleri
+
 Video Github Adresi: https://github.com/bmdersleri/VeriMadenciligi/blob/main/VeriMadenciligi_Sunumlari/22_BeratCanKatanalp_VeriMadenciligi%C4%B0cinModelBasarimParametreleri.pptx
 ​​​
 
