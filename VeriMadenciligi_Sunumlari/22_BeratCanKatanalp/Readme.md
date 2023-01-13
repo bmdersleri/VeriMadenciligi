@@ -17,6 +17,8 @@ Video Github Adresi: https://github.com/bmdersleri/VeriMadenciligi/tree/main/Ver
 
 
 
+
+
 Video Zaman Çizelgesi
 
 00:00 Giriş
@@ -38,6 +40,7 @@ Video Zaman Çizelgesi
 08:13 Kaynak
 
 08:15 Bitiş
+
 
 
 
