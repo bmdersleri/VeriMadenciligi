@@ -7,7 +7,7 @@ Anahtar Kelimeler: #VeriMadenciligi, #ModelBasarimParametreleri, #VeriMadencilig
 
 Youtube Kanalımız: BMDerslerim
 
-Youtube Kanal Adresi: https://www.youtube.com/channel/UCKdQ3Vg6lf_dWGsQGAQU7zA/featured
+Youtube Kanal Adresi: www.youtube.com/@bmderslerim
 
 Video Youtube Adresi: https://youtu.be/Ex4uAX8XYTw
 
